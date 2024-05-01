@@ -169,9 +169,6 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
-hai
-all pavan
-hahahahah
 </script>
 
 </body>
